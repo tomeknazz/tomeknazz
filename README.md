@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-I'm an Gdańsk University of Technology, Faculty of Electronics Telecommunications and Informatics student (I semester).
+I'm an Gdańsk University of Technology, Faculty of Electronics Telecommunications and Informatics student (1st semester).
 
 
 - 🔭 I’m currently working on improving my coding skills
