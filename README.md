@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hello there 👋</h2>
 
 I'm a Gdańsk University of Technology, Faculty of Electronics Telecommunications and Informatics student (1st semester).
 
