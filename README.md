@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋</h1>
 
-I am a student at the Gdansk University of Technology, Faculty of Electronics, Telecommunications and Informatics (first semester).
+I am a student at the Gdansk University of Technology, Faculty of Electronics, Telecommunications and Informatics (second semester).
 
 
 - 🔭 I’m currently working on improving my coding skills
