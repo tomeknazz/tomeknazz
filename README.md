@@ -30,10 +30,10 @@
 🌱 Always curious, always learning.
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools I'm familiar with:</h3>
 <p align="center">
   <a href="https://github.com/tomeknazz">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,matlab,octave,git,github,visualstudio,vscode,pycharm,arduino,stackoverflow,ai,windows,discord" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,go,html,css,postgres,matlab,octave,git,github,visualstudio,vscode,pycharm,cl,goland,arduino,raspberrypi,ai,windows,discord" />
   </a>
 </p>
  <br><br> 
