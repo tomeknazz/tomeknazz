@@ -14,7 +14,7 @@
 💻 **Technologies I work with:**
 
 - Arduino (C/C++)
-- Python (projects, simulations, basic data analysis)
+- Python (projects, simulations, basic data analysis, image processing)
 - LTspice (circuit simulation)
 - MATLAB (system simulations, optimization)
 - PLC (Function Block Diagram)
