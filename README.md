@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I'm currently a 5th-semester student of **Automation and Robotics**  
+🎓 I'm currently a 6th-semester student of **Automatic control and Robotics**  
 📍 Gdańsk University of Technology — Faculty of Electronics, Telecommunications and Informatics  
 ⚡ Interested in embedded systems, control theory, and robotics
 
@@ -13,14 +13,15 @@
 
 💻 **Technologies I work with:**
 
-- Arduino (C/C++)
-- Python (projects, simulations, basic data analysis, image processing)
-- LTspice (circuit simulation)
-- MATLAB (system simulations, optimization)
-- PLC (Function Block Diagram)
+- C/C++
+- Python
+- CUDA
+- MATLAB
+- PLC
+- And many others
 
-🔧 I enjoy building small electronics projects and experimenting with microcontrollers.  
-🎯 Currently focused on improving my coding and design skills through personal projects.
+🔧 I enjoy building electronics projects and experimenting with microcontrollers 
+🎯 Currently focused on improving my coding and design skills through personal projects
 
 ---
 
