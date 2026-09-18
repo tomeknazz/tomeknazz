@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I'm currently a 6th-semester student of **Automatic control and Robotics**  
+🎓 I'm currently a 7th-semester student of **Automatic control and Robotics**  
 📍 Gdańsk University of Technology — Faculty of Electronics, Telecommunications and Informatics  
 ⚡ Interested in embedded systems, control theory, and robotics
 
